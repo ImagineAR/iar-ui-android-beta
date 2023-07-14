@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.iar</groupId>
   <artifactId>iar_nfc_beta</artifactId>
-  <version>1.9.0</version>
+  <version>1.9.2</version>
   <name>nfc-sdk</name>
   <url>http://maven.apache.org</url>
 </project>
