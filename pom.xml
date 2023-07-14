@@ -4,8 +4,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.iar</groupId>
-  <artifactId>iar_ui_beta</artifactId>
-  <version>1.0.0</version>
-  <name>iar-ui</name>
+  <artifactId>iar_nfc_beta</artifactId>
+  <version>1.9.0</version>
+  <name>nfc-sdk</name>
   <url>http://maven.apache.org</url>
 </project>
